@@ -33,8 +33,38 @@
   {
     "name": "isopsephy",
     "Values": [
+      { "Symbol": "A", "Value": 1 },
+      { "Symbol": "B", "Value": 2 },
+      { "Symbol": "G", "Value": 3 },
+      { "Symbol": "D", "Value": 4 },
+      { "Symbol": "E", "Value": 5 },
+      { "Symbol": "W", "Value": 6 },
+      { "Symbol": "F", "Value": 6 },
+      { "Symbol": "Z", "Value": 7 },
+      { "Symbol": "H", "Value": 8 },
+      { "Symbol": "TH", "Value": 9 },
+      { "Symbol": "I", "Value": 10 },
+      { "Symbol": "K", "Value": 20 },
+      { "Symbol": "L", "Value": 30 },
+      { "Symbol": "M", "Value": 40 },
+      { "Symbol": "N", "Value": 50 },
+      { "Symbol": "X", "Value": 60 },
       { "Symbol": "O", "Value": 70 },
-      { "Symbol": "O", "Value": 800, "ButtonText": "Ω = 800" }
+      { "Symbol": "P", "Value": 80 },
+      { "Symbol": "Q", "Value": 90 },
+      { "Symbol": "R", "Value": 100 },
+      { "Symbol": "P", "Value": 100 },
+      { "Symbol": "S", "Value": 200 },
+      { "Symbol": "T", "Value" 300 },
+      { "Symbol": "U", "Value": 400 },
+      { "Symbol": "Y", "Value": 400 },
+      { "Symbol": "PH", "Value": 500 },
+      { "Symbol": "CH", "Value": 600 },
+      { "Symbol": "X", "Value": 600 },
+      { "Symbol": "PS", "Value" 700 },
+      { "Symbol": "O", "Value": 800 },
+      { "Symbol": "Ω", "Value": 800 },
+      { "Symbol": "TS", "Value": 900 }
     ]
   }
 ]
