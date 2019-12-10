@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "NAEQ6",
+    "Values": [
+      { "Symbol": "A", "Value": 1 },
+      { "Symbol": "L", "Value": 2 },
+      { "Symbol": "W", "Value": 3 },
+      { "Symbol": "H", "Value": 4 },
+      { "Symbol": "S", "Value": 5 },
+      { "Symbol": "D", "Value": 6 },
+      { "Symbol": "O", "Value": 7 },
+      { "Symbol": "Z", "Value": 8 },
+      { "Symbol": "K", "Value": 9 },
+      { "Symbol": "V", "Value": 10 },
+      { "Symbol": "G", "Value": 11 },
+      { "Symbol": "R", "Value": 12 },
+      { "Symbol": "C", "Value": 13 },
+      { "Symbol": "N", "Value": 14 },
+      { "Symbol": "Y", "Value": 15 },
+      { "Symbol": "J", "Value": 16 },
+      { "Symbol": "U", "Value": 17 },
+      { "Symbol": "F", "Value": 18 },
+      { "Symbol": "Q", "Value": 19 },
+      { "Symbol": "B", "Value": 20 },
+      { "Symbol": "M", "Value": 21 },
+      { "Symbol": "X", "Value": 22 },
+      { "Symbol": "I", "Value": 23 },
+      { "Symbol": "T", "Value": 24 },
+      { "Symbol": "E", "Value": 25 },
+      { "Symbol": "P", "Value": 26 }
+    ]
+  },
+  {
+    "name": "isopsephy",
+    "Values": [
+      { "Symbol": "O", "Value": 70 },
+      { "Symbol": "O", "Value": 800, "ButtonText": "Ω = 800" }
+    ]
+  }
+]
