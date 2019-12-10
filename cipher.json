@@ -66,5 +66,42 @@
       { "Symbol": "Ω", "Value": 800 },
       { "Symbol": "TS", "Value": 900 }
     ]
+  },
+  {
+    "Name": "Mispar Gadol",
+    "Values": [
+      { "Symbol": "A", "Value": 1 },
+      { "Symbol": "E", "Value" 1 },
+      { "Symbol": "B", "Value": 2 },
+      { "Symbol": "G", "Value": 3 },
+      { "Symbol": "D", "Value": 4 },
+      { "Symbol": "H", "Value": 5 },
+      { "Symbol": "U", "Value": 6 },
+      { "Symbol": "V", "Value": 6 },
+      { "Symbol": "Z", "Value": 7 },
+      { "Symbol": "CH", "Value": 8 },
+      { "Symbol": "T", "Value": 9 },
+      { "Symbol": "J", "Value": 10 },
+      { "Symbol": "I", "Value": 10 },
+      { "Symbol": "Y", "Value": 10 },
+      { "Symbol": "W", "Value": 12 },
+      { "Symbol": "K", "Value": 20 },
+      { "Symbol": "L", "Value": 30 },
+      { "Symbol": "M", "Value": 40 },
+      { "Symbol": "N", "Value": 50 },
+      { "Symbol": "S", "Value": 60 },
+      { "Symbol": "A'A", "Value": 70 },
+      { "Symbol": "P", "Value": 80 },
+      { "Symbol": "TZ", "Value": 90 },
+      { "Symbol": "Q", "Value": 100 },
+      { "Symbol": "R", "Value": 200 },
+      { "Symbol": "SH", "Value": 300 },
+      { "Symbol": "TH", "Value": 400 },
+      { "Symbol": "K", "Value": 500 },
+      { "Symbol": "M", "Value": 600 },
+      { "Symbol": "N", "Value": 700 },
+      { "Symbol": "P", "Value": 800 },
+      { "Symbol": "TZ", "Value": 900 }
+    ]
   }
 ]
